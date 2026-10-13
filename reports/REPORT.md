@@ -1,6 +1,6 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Ngô Tiến Dũng (2A202602374)  **Commit:** 6c4aa5d  **Điểm tự động (`make grade`):** 84.0 / 88 (88/88 nếu tính cả tập dữ liệu ẩn)
+**Họ tên / nhóm:** Ngô Tiến Dũng (2A202602374)  **Commit:** f864f92  **Điểm tự động (`make grade`):** 84.0 / 88 (88/88 nếu tính cả tập dữ liệu ẩn)
 
 > Mọi nhận định phải có số. Dán số từ `reports/gameday/*.json`, `reports/workflows.json`, `reports/slo.json`.
 
